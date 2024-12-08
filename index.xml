@@ -6,23 +6,23 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Haqida</title>
-    <link>https://islombektoshev.github.io/digital-garden/Haqida</link>
-    <guid>https://islombektoshev.github.io/digital-garden/Haqida</guid>
-    <description>Bu Digital-Garden bo’lib man bu yerda o’zim o’rgan ilmlarimni boshqalarga ulashaman.</description>
-    <pubDate>Sat, 07 Dec 2024 21:27:48 GMT</pubDate>
+    <title>RocksQL Nima</title>
+    <link>https://islombektoshev.github.io/digital-garden/Loyihalar/RocksQL/RocksQL-Nima</link>
+    <guid>https://islombektoshev.github.io/digital-garden/Loyihalar/RocksQL/RocksQL-Nima</guid>
+    <description>RocksQL Nima? Balki Redis haqida eshitgansiz, Redis Bu key value in memory database yani u Kalit va Qiymat ga asoslangan redis-cli 127.0.0.1:6379&gt; set name Adulloh OK 127.0.0.1:6379&gt; ...</description>
+    <pubDate>Sun, 08 Dec 2024 17:03:28 GMT</pubDate>
   </item><item>
-    <title>Java</title>
-    <link>https://islombektoshev.github.io/digital-garden/Mavzular/Java</link>
-    <guid>https://islombektoshev.github.io/digital-garden/Mavzular/Java</guid>
-    <description>Java bu dasturlash tili.</description>
-    <pubDate>Sat, 07 Dec 2024 21:27:48 GMT</pubDate>
+    <title>PubSub yoki Queue</title>
+    <link>https://islombektoshev.github.io/digital-garden/Mavzular/PubSub-yoki-Queue</link>
+    <guid>https://islombektoshev.github.io/digital-garden/Mavzular/PubSub-yoki-Queue</guid>
+    <description>Qisqacha Agar siz PubSub yoki Queue haqida eshitgan bo‘lsangiz, lekin hali bu tushunchalar bilan yaxshi tanish bo‘lmasangiz, ushbu maqola sizga foyda beradi ...</description>
+    <pubDate>Sun, 08 Dec 2024 17:03:28 GMT</pubDate>
   </item><item>
     <title>Assalomu Aleykum</title>
     <link>https://islombektoshev.github.io/digital-garden/</link>
     <guid>https://islombektoshev.github.io/digital-garden/</guid>
-    <description>Assalomu aleykum, hormanglar.</description>
-    <pubDate>Sat, 07 Dec 2024 21:27:48 GMT</pubDate>
+    <description>🏡 Assalomu aleykum, Bu mening Raqamli bo’gim.</description>
+    <pubDate>Sun, 08 Dec 2024 17:03:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
